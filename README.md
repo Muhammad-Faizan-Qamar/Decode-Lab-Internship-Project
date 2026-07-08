@@ -1,1 +1,1 @@
-# Decode-Lab-Internship-Project
+# Decode-Lab-Internship-Projects
