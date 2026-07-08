@@ -37,9 +37,12 @@ This project is part of the **DecodeLabs Industrial Training Kit (Batch 2026)**.
 ## 📂 Project Structure
 
 ```
-├── Data Science Project 1.ipynb
-├── Data Science Project 1(1).csv
-├── Cleaned_DataScience_Project1.csv
+├── Data_Science_Project_1.ipynb
+├── data_science_project_1.py
+├── Data Science Project 1.csv
+├── Cleaned Data Science Project 1.csv
+├── Data Science Project 1.pdf
+├── Data Science Project 1.xlsx
 ├── README.md
 ```
 
